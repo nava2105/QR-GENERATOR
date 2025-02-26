@@ -50,7 +50,7 @@ The QR codes can be used for links, text, or any other encoded information.
 ### **Steps**
 1. Clone the repository:
     ```bash
-    git clone https://github.com//.git
+    git clone https://github.com/nava2105/QR-GENERATOR.git
     cd QR-GENERATOR
     ```
 2. Install dependencies:
